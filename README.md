@@ -35,5 +35,13 @@ This project focuses on implementing **CRUD operations** to efficiently handle c
 
 ---
 
+## 🚀 Installation & Setup
+
+Follow the steps below to set up and run the CRM system locally.
+
+### 1️⃣ Clone the Repository
+```bash
+git clone <https://github.com/Arpittiwari2711/Customer-Relationship-Management-CRM-System>
+cd crm-system
 
 
